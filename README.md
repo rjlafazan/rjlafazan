@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 <a href="https://www.stactica.com/"><img align="left" alt="Stactica Software" width="26px" src="https://www.stactica.com/static/media/logo.450768f6.png" /> </a>
 
 <br />
+<br />
+
+## A little more about me
 
 - 👀 I’m interested in ...
   - Software
