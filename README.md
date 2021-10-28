@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ## I own a consultancy called [Stactica](https://www.stactica.com/)
 <a href="https://www.stactica.com/"><img align="left" alt="Stactica Software" width="26px" src="https://www.stactica.com/static/media/logo.450768f6.png" /> </a>
 
+<br />
+
 - 👀 I’m interested in ...
   - Software
   - Privacy
