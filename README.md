@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **rjlafazan/rjlafazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi, I’m Ryan
+## I'm a full stack developer
+## I own a consultancy called [Stactica](https://www.stactica.com/)
+<a href="https://www.stactica.com/"><img align="left" alt="Stactica Software" width="26px" src="https://www.stactica.com/static/media/logo.450768f6.png" /> </a>
+
 - 👀 I’m interested in ...
   - Software
   - Privacy
