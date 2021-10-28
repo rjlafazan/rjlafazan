@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I’m Ryan
 ## I'm a full stack developer
-### I own a consultancy called [Stactica](https://www.stactica.com/)
-<a href="https://www.stactica.com/"><img align="left" alt="Stactica Software" width="26px" src="https://www.stactica.com/static/media/logo.450768f6.png" /> </a>
+Owner of [Stactica Software](https://www.stactica.com/) <a href="https://www.stactica.com/"><img align="left" alt="Stactica Software" width="26px" src="https://www.stactica.com/static/media/logo.450768f6.png" /> </a>
 
 <br />
 <br />
