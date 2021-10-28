@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 Owner of [Stactica Software](https://www.stactica.com/) <a href="https://www.stactica.com/"><img align="left" alt="Stactica Software" width="26px" src="https://www.stactica.com/static/media/logo.450768f6.png" /> </a>
 
 <br />
-<br />
 
 ## A little more about me
 
@@ -36,6 +35,7 @@ Owner of [Stactica Software](https://www.stactica.com/) <a href="https://www.sta
 - Websites
   - https://stactica.com
 
+<br />
 
 ### Software
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
