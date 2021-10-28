@@ -27,7 +27,8 @@ Owner of [Stactica Software](https://www.stactica.com/) <a href="https://www.sta
   - Privacy
   - Security
   - OSINT
-  - Cryptocurrencies/Blockchain
+  - Cryptocurrency
+  - Blockchain
   - Muay Thai
 - 📫 How to reach me ... 
   - ryan@stactica.com
