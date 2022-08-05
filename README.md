@@ -29,9 +29,6 @@ Owner of [Stactica Software](https://www.stactica.com/) <a href="https://www.sta
   - OSINT
   - Cryptocurrency
   - Blockchain
-  - Muay Thai
-  - BJJ
-  - Judo
 - 📫 How to reach me ... 
   - ryan@stactica.com
   - ryan@lafazan.org
